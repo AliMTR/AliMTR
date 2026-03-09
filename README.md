@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AliMTR
 - 👀 I’m interested in Game Dev, FPS Shooters, and computational science
-- 🌱 I’m currently learning C# in Unity
+- 🌱 I’m currently learning about Godot Engine
 - 💞️ I’m looking to collaborate on indie games
-- 📫 How to reach me: (https://discord.gg/gPPs8KJ)
+- 📫 How to reach me: (Discord: AliMTR)
 
 <!---
 AliMTR/AliMTR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
